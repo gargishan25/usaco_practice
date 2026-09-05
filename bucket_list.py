@@ -8,5 +8,7 @@ for _ in range(n):
     end_time.append(b)
     buckets.append(c)
 
-for i in n:
-    if 
+#UNFINISHED PROGRAM
+
+# for i in n:
+#     if 
