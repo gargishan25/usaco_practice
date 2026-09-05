@@ -12,13 +12,8 @@ n = int(input())
 position = []
 id = []
 position = list(map(int,input().split()))
-# for _ in range(n):
-#     pos_num = int(input)
-#     position.append(a)
-#     print(end=" ")
-# for _ in range(n):
-#     id_num = int(input)
-#     id.append(id_num)
-#     print(end=" ")
-# for i in range(len(position)):
-print(position)
+id_number = list(map(int,input().split()))
+
+for i in range(n):
+    if position[i-1] != i:
+    
