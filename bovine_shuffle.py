@@ -16,4 +16,4 @@ id_number = list(map(int,input().split()))
 
 for i in range(n):
     if position[i-1] != i:
-    
+        print() #Placeholder so no error in file
